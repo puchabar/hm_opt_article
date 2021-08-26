@@ -20,7 +20,6 @@ idna==3.2
 ipykernel==6.2.0
 ipython==7.26.0
 ipython-genutils==0.2.0
-isort==5.9.3
 jedi==0.18.0
 Jinja2==3.0.1
 json5==0.9.6
@@ -29,7 +28,6 @@ jupyter-client==7.0.1
 jupyter-core==4.7.1
 jupyter-server==1.10.2
 jupyterlab==3.1.9
-jupyterlab-code-formatter==1.4.10
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.7.2
 jupyterlab-spellchecker==0.7.0
